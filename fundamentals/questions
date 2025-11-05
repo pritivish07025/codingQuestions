@@ -1,0 +1,109 @@
+Write a program to print "Hello, World!" in C++.
+Take input from the user and print it back.
+Add two numbers entered by the user.
+Find the size of int, float, double, and char data types.
+Swap two numbers using a third variable.
+Swap two numbers without using a third variable.
+Calculate the area of a rectangle, circle, and triangle.
+Convert Celsius to Fahrenheit.
+Check whether a number is even or odd.
+Find the largest of two numbers.
+Find the largest among three numbers.
+Check if a number is positive, negative, or zero.
+Check if a character is a vowel or consonant.
+Check leap year or not.
+Find grade based on marks (A, B, C, etc.).
+Simple calculator using switch case.
+Check whether a number is divisible by 5 and 11.
+Find roots of a quadratic equation.
+Check if a character is uppercase, lowercase, digit, or special symbol.
+Print day name using number (1 = Monday, etc.).
+given array mein loop ke through value assign karna and un values ko print kawarna 
+WAF to calculate sum & product of all numbers in an array
+WAF to swap the max & min number of an array 
+WAF to print all the unique values in an array 
+WAF to print intersection of 2 arrays 
+Bubble sort 
+
+
+Print numbers from 1 to n.
+Print even and odd numbers up to n.
+Find sum of first n natural numbers.
+Find factorial of a number.
+Print multiplication table of a given number.
+Reverse a number.
+Count number of digits in a number.
+Find sum of digits of a number.
+Check palindrome number.
+Check Armstrong number.
+Print Fibonacci series up to n terms.
+Find LCM and GCD of two numbers.
+Print all prime numbers between 1 and 100.
+Check if a number is prime or not.
+Find the power of a number using loop.
+Write a function to find factorial of a number.
+Write a function to check if a number is prime.
+Write a function to find the largest of three numbers.
+Write a function to swap two numbers using call by value.
+Write a function to swap two numbers using call by reference.
+Write a function to reverse a number.
+Write a function to check palindrome number.
+Write a recursive function for factorial.
+Write a recursive function for Fibonacci series.
+Write a function to find power using recursion.
+Input and print array elements.
+Find maximum and minimum element in an array.
+Find sum and average of array elements.
+Reverse an array.
+Count even and odd numbers in an array.
+Search an element in an array (linear search).
+Sort array elements (bubble sort).
+Sort array elements (selection sort).
+Merge two arrays.
+Find the second largest element in an array.
+Input and display a string.
+Find length of a string (without using built-in).
+Reverse a string.
+Check palindrome string.
+Count vowels and consonants in a string.
+Convert lowercase to uppercase and vice versa.
+Count frequency of characters in a string.
+Remove spaces from a string.
+Find duplicate characters in a string.
+Compare two strings without using strcmp().
+Print the address of a variable.
+Access and modify variable using pointer.
+Swap two numbers using pointers.
+Add two numbers using pointers.
+Find the length of a string using pointer.
+Reverse string using pointers.
+Find the maximum element in array using pointers.
+Dynamic memory allocation using new and delete.
+Pointer to pointer example.
+use pointer with function to change value in main.
+Define a structure for student details and display them.
+Store and print data of 5 students using structure array.
+Create a class Rectangle to find area and perimeter.
+Create a class BankAccount with deposit and withdraw methods.
+Create a class Complex with functions for addition and subtraction.
+Demonstrate constructor and destructor in C++.
+Implement function overloading (same function name, different parameters).
+Implement operator overloading (e.g., + for complex numbers).
+Demonstrate inheritance (base and derived class).
+Use polymorphism with virtual functions.
+Create and write data into a file.
+Read data from a file.
+Copy contents of one file into another.
+Count lines, words, and characters in a file.
+Append data into a file.
+Handle file not found error using exception handling.
+Demonstrate try, catch, and throw for divide by zero error.
+Use vector to store and display integers.
+Use set to store unique elements.
+Use map to count frequency of words.
+Sort a vector using sort() function.
+Find max and min elements in a vector using STL.
+Demonstrate stack operations (push, pop, top).
+Demonstrate queue operations (push, pop, front).
+Use templates to create a function for swapping two variables of any data type.
+
