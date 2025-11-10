@@ -1,0 +1,6 @@
+clear command used to clear terminal
+
+uppward arrow keys ke purani commands aa jati hia wapis(jitni baar press karte jayenge utni baar command wapis aati jayengi)
+
+downwards se ek ek karke command jati rahengi
+

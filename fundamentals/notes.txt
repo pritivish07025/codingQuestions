@@ -1,0 +1,49 @@
+c++ ek case sensitive language hai 
+
+c++ mein output :  cout<< ;    is ki help se print karate  hai 
+c++ mein inout  : cin>>  ;     is ki help se lete hai
+
+c++ ka boiler plate  :
+                       #include <iostream>    isko preprosasser directive kehte hai jo compilor ko batata hai "iostream" ka file jisme "cout" ka logic likha hai 
+                       using namespace std;   "namespace" ek file hai jisme kai saari chijo ka logic likha hua hai aur "std"" batata hai ki hume kon sa (cout) use karna hai
+                       int main(){  
+                         this is the main function , jaha se compilor ko pata chalta hai ki humara code start ho rha hai.
+
+                         return 0;
+                       }
+
+
+c++ mein comment -   // single line comment 
+                     /* Multiline comment   */
+
+
+c++ extention      -  .cpp 
+"  ; "   it is terminator in c++  to terminate the code .
+
+std::cout<<"
+
+running step :  code.cpp -> compilor ->code.exe
+              g++ (ye c++ compilor ko invoke karta hai ) code.cpp          compilation stage (isne executable file banaa di ){ a.exe file for windows , a.out file for mac}
+              ./a.exe                                                      stage 2
+
+endl , /n  :  isse c++ mein next line pr jaate hai 
+note: c++ space bhi count hota hai .
+ctrl + /   : isse code comment ho jayegi
+
+variable  : it is a name of memory location we store some data (number se kabhi bhi start nhi hoga , underscore se ya variable se )
+            variable humesha data type ke sath declare kiya jaata hai
+            int age =25;
+             
+            
+
+character : single quote 
+string double quotes 
+
+
+data type    :          int    - 4 bytes
+                     char   - 1 bytes
+                     float  -  4 byte
+                     bool   -  1 byte
+                     double -  8 byte
+
+type casting :      convertion data from one type to another type 
