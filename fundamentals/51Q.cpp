@@ -12,3 +12,5 @@ int main(){
 
 // NOTE : agar \0 nhi lagayenge toh ye abc≡@  dega 
 // isko lagane pr sirf abc dega 
+//strlen  : length deta hai string ka
+// sting individual array ki tarah banta hai jo last mein \0(null character) store ho jaate hai  
