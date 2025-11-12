@@ -25,7 +25,6 @@ WAF to print all the unique values in an array
 WAF to print intersection of 2 arrays 
 Bubble sort 
 WAP to check whether a user vote or not .
-
 Print numbers from 1 to n.
 Print even and odd numbers up to n.
 Find sum of first n natural numbers.
@@ -106,4 +105,5 @@ Find max and min elements in a vector using STL.
 Demonstrate stack operations (push, pop, top).
 Demonstrate queue operations (push, pop, front).
 Use templates to create a function for swapping two variables of any data type.
+
 
