@@ -1,7 +1,7 @@
 
 #include <stdio.h>
 int main() {
-    int n, prime = 0;
+    int n, prime = 0,count=0;
 
     printf("Enter the value: ");
     scanf("%d", &n);

@@ -1,24 +1,33 @@
-//Print all prime numbers between 1 and 100.
-#include <iostream>
-using namespace std;
-
+#include <stdio.h>
 int main() {
-    cout << "Prime numbers between 1 and 100 are: " << endl;
+    int start, end, count = 0;
 
-    for (int num = 2; num <= 100; num++) {
-        bool isPrime = true;
+    printf("Enter start of range: ");
+    scanf("%d", &start);
+
+    printf("Enter end of range: ");
+    scanf("%d", &end);
+
+    for (int num = start; num <= end; num++) {
+
+        if (num <= 1)
+            continue;
+
+        int isPrime = 1;
+
         for (int i = 2; i * i <= num; i++) {
             if (num % i == 0) {
-                isPrime = false;
+                isPrime = 0;
                 break;
             }
         }
 
-        if (isPrime) {
-            cout << num << " ";
+        if (isPrime == 1) {
+            count++;
         }
     }
 
-    cout << endl;
+    printf("Total prime numbers in the range = %d", count);
+
     return 0;
 }

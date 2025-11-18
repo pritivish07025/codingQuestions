@@ -47,3 +47,54 @@ data type    :          int    - 4 bytes
                      double -  8 byte
 
 type casting :      convertion data from one type to another type 
+
+
+
+
+function 
+-------------------------------------------------
+
+if we want to do any task again and again then we use function
+function tab tak run nahi karega jab tak usko call nhi karenge aur ye call main function mein hota hai .
+
+
+
+returnType functionName(){
+cout<<hello;
+}
+functionName();               //function call 
+
+>> example <<
+-------------
+
+
+#include <iostream>
+using namespace std;
+
+int  printHello(){
+    cout<<"hello\n";
+    return 3;  // return hum kuch bhi kara sakte hai and chahe toh us return value ko print bhi kara sakte hai 
+}
+int main(){
+ // function call
+ int val =printHello();  // is waale vale line mein humne return value ko print karaya hai 
+ cout << printHello()<<endl; // YE WAli line se ye samjh aaya ki hum return value ko bina kisi variable mein store karaye bhi usko print kara sakte hai 
+ cout <<"val ="<< val <<endl;
+ return 0;
+}
+
+function ek tarah se aaisa system hota hai jo input leta hai and output return karta hai .
+iske andar para meter ke concept aate hai jo important hote hai 
+ >> Parameter<< 
+
+ returnType functionName( type parameter1Name , typr parameter2Name ){
+  //do some workn
+ }
+
+
+ control flow statement (control statement ) flow of control
+ 1. sequencial atatement 
+ 2. decision making / selection statement 
+ 3. loop 
+ 4. switch case 
+ 

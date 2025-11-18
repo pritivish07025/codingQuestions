@@ -1,0 +1,47 @@
+CONDITIONALS STATEMENT 
+------------------------------
+
+if else statement :-
+                    if(condition){
+                        // do something false
+                    }
+
+                    else {
+                        // do something false
+                    }
+
+else if :-
+                  if(condition){
+
+                  }
+                  else if(condition){
+
+                  }
+                  else if(condition){
+
+                  }
+                  else {
+
+                  }
+
+
+
+
+
+SWITCH STATEMENT 
+---------------------------------
+
+switch (number){
+    case C1: // do something
+          break;
+    case C2: // do something
+          break;
+    case C3: // do something
+         break;
+    default:
+}
+
+
+properties : 
+           1. cases can be in any order 
+           2. Nested switch (switch inside switch ) are allowed

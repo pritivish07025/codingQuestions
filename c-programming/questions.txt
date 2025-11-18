@@ -1,0 +1,47 @@
+1. hello world program 
+
+5. addition of two number by taking input value 
+
+6. area of the circle 
+
+7. area of the square 
+
+12. write a program to calculate perimeter of traingle , take sides a&b from the user
+
+13 .take a number (n) from the users & output its cube (n*n*n)
+
+write comments for program a & b
+
+farhenite to celcius
+
+simple intrest 
+
+profite and loss
+
+compound intrest 
+
+14 .write a program to check if a number is divisible by 2 or not without using if else
+
+15. write a program to print the average of 3 numbers
+
+16. write a program top check if given character is digit or not
+
+17. write a program to print the smallest numbers
+
+24. write a program to find if a character entered by user is upper case or not
+
+25. WRITE A PROGRAM TO CHECK IF A GIVEN NUMBER IS ARMSTRONG NUMBER OR NOT
+
+26. write a program to check if the given number is natural number or not
+
+27. // print hello world five times
+
+28. print natural numbers
+
+29. print the number from 0 to n using while loop
+
+30. print the sum of first n natural numbers ,also print thet in reverse.
+
+31 .print the table of the number 
+
+33.keep taking numbers as input from user until user enters an odd number

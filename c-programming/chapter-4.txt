@@ -1,0 +1,41 @@
+LOOP 
+----------------------------
+
+1. for loop
+             for(initialisation; condition;updation){
+               // do something
+             }
+
+2. while loop
+             while(condition){
+                //do something
+             }
+
+
+3. do while
+             do {
+
+             }
+             while(condition);
+
+
+
+SPECIAL THINGS
+-----------------------------
+
+- Increment operator
+- Decrement operator 
+- Loop counter can be float or even character 
+- Infinite loop
+
+
+breake statment 
+-------------------------------
+
+exit the loop
+
+
+continue statement 
+---------------------------------
+
+skip to next iteration

@@ -10,7 +10,7 @@ int  printHello(){
 int main(){
  // function call
  int val =printHello();  // is waale vale line mein humne return value ko print karaya hai 
- cout << printHello()<<endl;
+ cout << printHello()<<endl; // YE WAli line se ye samjh aaya ki hum return value ko bina kisi variable mein store karaye bhi usko print kara sakte hai 
  cout <<"val ="<< val <<endl;
  return 0;
 }

@@ -1,0 +1,126 @@
+variable 
+-------------------------
+
+ DEF :-   variable is a name of memory location where we store some data .
+
+ RULE :- 
+        1. variable are case sensitive 
+        2. 1st character is alphabet or '  _  '
+        3. no comma / blank space 
+        4. No other symbol other that '  _  '
+
+NOTE :- :-       variable can be updated .
+                variable name should be meaningfull 
+
+
+
+DATA TYPE 
+------------------------------------------
+
+DATA TYPE                      SIZE IN BYTE 
+char or signed char             1
+unsigned char                   2
+int or signed int               2
+unsigned  int                   2
+short int or unsigmed short int 2
+signed short int                2
+long int or signed long int     4
+unsigned long int               4
+float                           4
+double                          8
+long double                     10
+
+c ke andar boolean , string ka data type nhi hota , or nahi classes, object nhi hoti hai 
+
+1972 mein aayi thi
+
+
+CONSTANTS 
+--------------------------------
+
+values that dont change (fixed)
+
+ types :- 1. integer constant      1,2,3,0,-1,,-2
+          2. real constant         1.0, 2.0, 3.14, -2.4 
+          3. character constants    'a'   'b'   'A'  '#'  '&'
+
+
+
+
+KEYWORDS 
+------------------------------
+
+Reserved words that have special meaning to the compilor 
+
+32 keywords in C
+
+
+STRUCTURE OF PROGRAM 
+-------------------------
+
+# include <stdio.h>           preprocessor directive
+int main(){                    main functions
+         // statements
+        return 0;
+}
+
+;  ye ek tarah ka termination point ko batata hai 
+
+
+COMMENTS 
+-------------------------
+
+lines that are not part of programm
+
+single line comments -  //
+multiple line  comment - /*  */
+
+
+
+OUTPUT 
+--------------------
+
+for the  output we use 
+
+                            printf();
+
+cases :-  
+        1. integer 
+          printf("age is %d",variable name);
+        
+
+        agar in formate specifier ko jaha likhenge wahi ye values ko print karega
+
+
+        2. real numbers 
+          printf("value of pi is %f" , pi)
+        
+        3. characters
+         printf ("star looks like this %c",star)
+
+c languages mein sum bhi count hota hai 
+         format specifier - %d , %c  , %f
+
+INPUT 
+--------------------
+
+for the input we use 
+
+scanf ("" , &__);
+
+
+
+NEXT LINE 
+----------------------
+
+for the next line we use 
+                           \n 
+
+
+COMPILATION 
+---------------------
+
+A computer program that translate C code into machine code 
+
+hello.c -> c compilor -> a.exe(windows )
+                         a.out(linux & mac)

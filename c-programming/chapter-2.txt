@@ -4,10 +4,10 @@ INSTRUCTIONS
 this are statements in program
 
 types :-
-         types declaration instructions --> declare var before using it  (use and declare saath mein nhi kr sakte )
+        1. types declaration instructions --> declare var before using it  (use and declare saath mein nhi kr sakte )
 
 
-         arithmetic instructions  --> operand 1 oprator(+) operand 2 (single value on the left side jaha pr values jakar store hoyengi)
+        2. arithmetic instructions  --> operand 1 oprator(+) operand 2 (single value on the left side jaha pr values jakar store hoyengi)
 
                 pow (x,y) for x to the power y -->  #include<math.h>
                                       a=bc invalid 
@@ -29,4 +29,38 @@ types :-
                                  *  /  %   +  -        aur ye left to right solve hota hai
 
                      associativity rules (for some precedence)
-         control instructions
+
+
+
+
+        3. control instructions--> used to determine flow of program 
+                                a. sequence control 
+                                --------------------
+
+                                    
+                                b. decision control
+                                -------------------
+
+
+                                c. loop control
+                                ------------------
+
+
+                                d. case control
+                                ------------------
+
+
+
+OPERATORS
+-----------------------------------------------
+
+a. Arithmetic operators (+,-,*,%,/)
+b. Relational Operators (== , >, <, >=,<=,!=)
+c. Logical Operators    (&&, ||, !)
+d. Bitwise Operators     
+e. Assignment Operators  (= , +=,-=,*=,/=,%=)
+f. Ternary Operators    condition? do something  if TRUE : do Something if FALSE;
+g . increment  operator ++i , i++
+h. decrement operator   --i , i--
+
+priority :- ! , * , / , %,+,-,<,<=,>,>=,==,!=,&&,||,=

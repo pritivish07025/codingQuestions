@@ -1,0 +1,16 @@
+printf mein space bhi count hota hai 
+
+formate specifier ka jaha likhenge wo waha pr output dega value ki
+
+bina value assigned kiye sift declare karke value print karayenge toh ye garbage value print karega 
+
+c programing true and false ke liye values 0 &  1 ke form mein aata hai
+
+if else ke condition mein kabhi bhi curly braces ko lagana nhi bhulna kyuki ek statement ke liye toh ye error nhi dega but multiple statement ki condition mein ye error dega
+
+c mein kabhi bhi 0 ke kiye false statment consider karte hai and 1 ke liye false consider karte hai
+
+agar loop mein infinite loop use kar rhe hai toh usme condition dena bahut jaruri hai kyuki nhi toh infinte loop chal jayega aur wo tab tak chalega jab tak memory bhar na jaye
+
+break ya continue humesha loop mein use hote hai
+  
