@@ -1,0 +1,32 @@
+INSTRUCTIONS 
+----------------------
+
+this are statements in program
+
+types :-
+         types declaration instructions --> declare var before using it  (use and declare saath mein nhi kr sakte )
+
+
+         arithmetic instructions  --> operand 1 oprator(+) operand 2 (single value on the left side jaha pr values jakar store hoyengi)
+
+                pow (x,y) for x to the power y -->  #include<math.h>
+                                      a=bc invalid 
+                                      a=b^c invalid (^ xor operators)
+                                      a=b/c valid
+                                      c=b*c valid
+
+                moduler operator (%) it is give reminder and it is not work on float values only its work over integer
+
+                type convertion -->
+                                   int op int -->int
+                                   int op float -->float
+                                   float op float -->float
+
+                                implisit convertion
+                                 explisit comvertion
+
+             operators precedence 
+                                 *  /  %   +  -        aur ye left to right solve hota hai
+
+                     associativity rules (for some precedence)
+         control instructions
