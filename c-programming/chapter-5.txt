@@ -1,0 +1,59 @@
+FUNCTION 
+---------------------------
+
+block of code that performs perticular task 
+
+                 take argument --> do work --> return result
+
+it can be used multiple task
+
+syntax
+-------
+
+syntax 1 : Function prototype -->void printHello();     is line ki help se hum compilor ko batate hai ki humne function likha hai
+syntax 2 : Function defination --> void printHello(){
+                                   printf("hello");
+                                   }
+syntax 3 : Function call     --> ye calling main function mein hota hai.
+
+function_type function_name();
+void printHello(){
+    printf("hello");
+}
+printHello();
+
+
+property 
+---------
+
+1. execution always start from main
+2. A function gets called directly or indirectly from main
+3.There can be multiple function in a program
+
+types
+----------
+
+library functions--> special functions inbuilt in C
+
+user defined functions --> declared & defined by programmer
+
+
+Pssing Arguments 
+-------------------
+
+function can take value(parameter) & given(arguments) some value
+
+
+
+RECURTION
+--------------------- 
+
+when a function calls itself its called recursion
+
+PROPERTY OF RECURSION
+----------------------
+
+a. Anything that can be done with iteration, can be done with recursion and vice -versa 
+b. Base Case if the condition which stop recursion
+c. Iteration has infinite loop & Recursion has stack over flow 
+d. Recursion can sometimes give the most simple solution

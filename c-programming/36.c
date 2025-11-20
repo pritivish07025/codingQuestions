@@ -1,10 +1,15 @@
 // add two number using function
 #include <stdio.h>
-void add();
-void add(int a, int b){
-    printf ("add both number :%d", a+b);
-}
+int sum(int a , int b);
 int main(){
-    add(1,2);
-    return 0;
+    int a, b;
+    printf ("enter first number :\n");
+    scanf("%d", &a);
+    printf("enter second number :");
+    scanf("%d", &b);
+    int s =sum(a,b);
+    printf("sum is %d",s);
+}
+int sum (int a, int b){
+    return a+b;
 }

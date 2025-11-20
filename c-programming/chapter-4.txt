@@ -1,5 +1,6 @@
 LOOP 
 ----------------------------
+if we want to perform any task again and again
 
 1. for loop
              for(initialisation; condition;updation){
