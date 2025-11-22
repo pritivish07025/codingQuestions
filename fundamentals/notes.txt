@@ -93,4 +93,34 @@ iske andar para meter ke concept aate hai jo important hote hai
 
 
  
- 
+ CHARACTER ARRAY
+ ------------------
+
+ char str[]={'p','r','i','t','i'}
+ cout<<str<<endl;
+
+ is case mere pass ye joined STRING milega 
+
+ INTEGER ARRAY
+ --------------
+ is case mein mere pass address milega 
+
+ int str[]={1,2,3,4,5};
+ cout<<str<<endl
+
+ strlen :- it is defined the string length
+ -------
+
+ when we assign any value to the character array toh wo automatically null character le leta hai
+
+
+
+ input & output 
+ -------------
+
+ jab hum character array mein koi string assign karte hai cin ka use karke toh agar space aa jaata hai toh ye space ke baad wale words ko remove kar deta hai 
+ isilie hum is niche diye huye function ka generally use karte hai string ko input lene ke liye 
+
+ cin.getline(str,len,delim?)
+
+ str: character ka naam, len : no of character , delim: ye stop karta hai input ko lena (matlb maan lo user jab koi sign apply kare ya koi condition de toh uske baad ka input nhi lega)

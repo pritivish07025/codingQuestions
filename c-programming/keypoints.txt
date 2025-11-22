@@ -13,4 +13,6 @@ c mein kabhi bhi 0 ke kiye false statment consider karte hai and 1 ke liye false
 agar loop mein infinite loop use kar rhe hai toh usme condition dena bahut jaruri hai kyuki nhi toh infinte loop chal jayega aur wo tab tak chalega jab tak memory bhar na jaye
 
 break ya continue humesha loop mein use hote hai
+
+/ agar hum character array ko string arrign kr rhe hai toh wo automatically null character hold karta hai 
   

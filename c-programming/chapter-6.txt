@@ -1,0 +1,36 @@
+POINTER
+-----------------------
+
+A variable that stores the memory address of another variable 
+
+
+syntax
+--------
+
+int age =22;
+int *ptr=&age;  // ye us variable ki address ko dega
+int _age=*ptr;   // ye us varibale ki value ko dega
+
+Declaring Pointer 
+-----------------
+
+
+int *ptr ;
+char *ptr;
+float *ptr;
+
+FORMATE SPECIFIER
+-----------------
+
+printf("%p",&variable_name);
+
+printf("%p", ptr);
+
+printf("%d",*ptr);
+
+printf("%p"&ptr);  pointer ka address
+
+printf("%d",*(&age)); value dega pointer ke value ko
+
+
+
